@@ -4,3 +4,4 @@ drwxr-xr-x 6 sancho sancho 4096 abr 28 16:40 ..
 drwxrwxr-x 7 sancho sancho 4096 abr 28 21:40 .git51
 
 -rw-rw-r-- 1 sancho sancho    1 abr 28 21:40 history.txt
+history.txt
