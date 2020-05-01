@@ -1,7 +1,6 @@
-total 12
-drwxrwxr-x 3 sancho sancho 4096 abr 28 21:40 .
-drwxr-xr-x 6 sancho sancho 4096 abr 28 16:40 ..
-drwxrwxr-x 7 sancho sancho 4096 abr 28 21:40 .git51
-
--rw-rw-r-- 1 sancho sancho    1 abr 28 21:40 history.txt
-history.txt
+cambiando todo
+para poder trabajar con git 
+utilizando comandos para trabajar
+no me habia dado cuenta que el editos 
+tiene ahhhh no tiene yba a decir que el editor 
+tenia corrector de texto
