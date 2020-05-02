@@ -4,3 +4,8 @@ body{
     color: blue;
     background: darkgoldenrod;
 }
+
+#div{
+    border: black ;
+    margin-top: auto;
+}
