@@ -5,7 +5,8 @@ body{
     background: darkgoldenrod;
 }
 
-#div{
-    border: black ;
-    margin-top: auto;
+div{
+    background: white;
+    align-content: center;
+    
 }
