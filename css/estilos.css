@@ -5,8 +5,17 @@ body{
     background: darkgoldenrod;
 }
 
-div{
-    background: white;
-    align-content: center;
+
+#contenedor{
+    background: pink;
+    box-shadow: purple;
+    color: black;
+    stroke: black;
+    font-weight: bold;
+    padding: 0.5em;
+    width: 70%;
+    text-align: center;
+    border-radius: 9px;
+    border: 1px solid black;
     
 }
