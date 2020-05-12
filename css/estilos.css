@@ -1,10 +1,10 @@
-body{
+/*body{
     text-align: center;
     font-family: Arial;
     color: blue;
     background: darkgoldenrod;
 }
-
+*/
 
 #contenedor{
     background: pink;
@@ -18,4 +18,134 @@ body{
     border-radius: 9px;
     border: 1px solid black;
     
+}
+
+h1 {
+    font-size: 25px;
+    font-family: sans-serif;
+    /*font :bold 25px sans-serif*/
+}
+h2{
+    font-size: 20px;
+}
+
+#titulo{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header,section,footer,aside,nav,article, hgroup{
+    /*border: 1px solid black;*/
+    display: block;
+}
+
+article{
+    text-align: left;
+}
+
+.agrupar{
+    background: #ccccff;
+    width: 90%;
+    margin: 0;
+    margin: auto;
+    border-radius:30px;
+    -webkit-box-shadow: -11px 10px 11px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -11px 10px 11px 0px rgba(0,0,0,0.75);
+    box-shadow: -11px 10px 11px 0px rgba(0,0,0,0.75);
+    padding: 0;
+
+}
+
+header{
+    background: #ff6666;
+    border-radius: 30px 30px 0  0;
+    color: #183969;
+    font-weight:bold;
+    padding : 15px;
+    margin: auto;
+}
+
+#titulo{
+    padding-top: 0px;
+    margin: 0;
+}
+
+.menu{
+    text-align: center;
+    background:#ff4646;
+    padding: 5px ;
+    margin: auto;
+    
+} 
+
+.menu li{
+    list-style: none;
+    padding: 0 15px;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    margin: 0;
+    
+
+}
+
+.menu ul{
+    margin: 5px;
+}
+
+.contenido{
+width: 50%;
+margin: 4%;
+margin-right: 1%;
+float: left;
+padding: 2%;
+background: #ff6666;
+border-radius: 30px;
+
+}
+time{
+    color: slategray;
+}
+
+article{
+    margin-bottom: 2%;
+    background: #ff4646;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+footer{
+    text-align: right;
+}
+
+.barralateral{
+
+    width: 29%;
+    margin: 4%;
+    float: left;
+    background: #ff6666;
+    border-radius: 30px;
+    padding: 2%;
+
+}
+
+.pie{
+    clear: both;
+}
+
+p img{
+    display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.pie{
+
+    text-align: center;
+    background: #ff6666;
+    border-radius:  0  0  30px 30px;
+    font-size: 14px;
+    font-weight: lighter;
+    padding: 1%;
 }
